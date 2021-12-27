@@ -211,12 +211,6 @@
  "nextlayerid":13,
  "nextobjectid":32,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"exitUrl",
-         "type":"string",
-         "value":"world://lobby/main.json"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -265,7 +259,8 @@
                          "name":"exitUrl",
                          "type":"string",
                          "value":"world://lobby/main.json"
-                        }]
+                        }],
+                 "type":"EXIT"
                 },
                 {
                  "id":1,
