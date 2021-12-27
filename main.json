@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lobby"
+                 "value":"world://lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -215,7 +215,7 @@
         {
          "name":"exitUrl",
          "type":"string",
-         "value":"lobby"
+         "value":"world://lobby"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -264,7 +264,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"{<lobby>\/maps\/generic-tech.json#start_balccon}"
+                         "value":"world://lobby"
                         }]
                 },
                 {
