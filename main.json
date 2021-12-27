@@ -218,6 +218,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"carpet",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"JRubics"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -231,6 +237,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -274,6 +286,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"mate_wall_low",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"JRubics"
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
@@ -287,6 +305,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"wood",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"TheEdgeOfRage"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -300,6 +324,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -313,6 +343,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -326,6 +362,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -339,6 +381,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -352,6 +400,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -365,6 +419,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"kazan",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"TheEdgeOfRage"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -378,6 +438,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"16_lab_table",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -391,6 +457,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"27_winkekatze_anim1",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -404,6 +476,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"54_wallscreen3",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -417,6 +495,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"37_Sitzsack_01",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -430,6 +514,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"44_Sitzsack_08",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -443,6 +533,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"balccon_logo",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/2k21.balccon.org"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -456,6 +552,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"camera",
+         "properties":[
+                {
+                 "name":" tilesetCopyright",
+                 "type":"string",
+                 "value":"TheEdgeOfRage"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
